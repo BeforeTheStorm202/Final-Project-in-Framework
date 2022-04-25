@@ -22,8 +22,7 @@ namespace Azure_Translator_Service
         }
 
         private static readonly string endpoint = "https://api.cognitive.microsofttranslator.com/";
-        private static readonly string key1 = "457b567e0bd24a6fb8bd64f93be1cfa5";
-        //private static readonly string key2 = "d5a9a2b27fb848a79882134b9e82aa37";
+        private static readonly string key1 = "";
         private static readonly string location = "southeastasia";
         /*
          * region = southeastasia
