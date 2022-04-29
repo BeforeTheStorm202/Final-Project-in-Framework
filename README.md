@@ -7,3 +7,4 @@ Prerequisites:
 References: 
 1. https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-translator?tabs=csharp
 2. https://docs.microsoft.com/en-us/azure/cognitive-services/translator/reference/v3-0-reference
+3. https://docs.microsoft.com/en-us/archive/msdn-magazine/2019/june/speech-text-to-speech-synthesis-in-net
