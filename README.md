@@ -1,4 +1,4 @@
-Project in 4.8 .NET framwork, source code is in TranslatorAPI.cs file.
+Project in 4.8 .NET framework, source code is in TranslatorAPI.cs file.
 
 Prerequisites: 
 1. Visual Studio 2022 or lower that supports 4.8 framework
