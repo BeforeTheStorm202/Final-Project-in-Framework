@@ -3,7 +3,7 @@
 namespace Azure_Translator_Service
 {
     // Dictionary Lookup
-    public class translationsreponse
+    public class translationsResponse
     {
         public string normalizedSource { get; set; }
         public string displaySource { get; set; }

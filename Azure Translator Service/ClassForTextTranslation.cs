@@ -3,7 +3,7 @@
 namespace Azure_Translator_Service
 {
     // Text translation
-    public class translatetextresponse
+    public class translatetextResponse
     {
         public List<translatetext> translations { get; set; }
     }

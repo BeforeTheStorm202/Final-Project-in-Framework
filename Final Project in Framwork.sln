@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure Translator Service", "Azure Translator Service\Azure Translator Service.csproj", "{786F9986-D6E4-4B6A-974F-4E34DE3DA55D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorAPI", "Azure Translator Service\TranslatorAPI.csproj", "{786F9986-D6E4-4B6A-974F-4E34DE3DA55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\SignInLogIn (2)\Server\Server.csproj", "{87621340-4F0A-4C1C-B263-E692BFA857BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{786F9986-D6E4-4B6A-974F-4E34DE3DA55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{786F9986-D6E4-4B6A-974F-4E34DE3DA55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{786F9986-D6E4-4B6A-974F-4E34DE3DA55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87621340-4F0A-4C1C-B263-E692BFA857BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87621340-4F0A-4C1C-B263-E692BFA857BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87621340-4F0A-4C1C-B263-E692BFA857BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87621340-4F0A-4C1C-B263-E692BFA857BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
