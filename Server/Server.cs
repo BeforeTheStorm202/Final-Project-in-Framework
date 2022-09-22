@@ -21,7 +21,7 @@ namespace Server
         }
         // Azure API needed
         private static readonly string endpoint = "https://api.cognitive.microsofttranslator.com/";
-        private static readonly string key1 = "457b567e0bd24a6fb8bd64f93be1cfa5";
+        private static readonly string key1 = "";
         private static readonly string location = "southeastasia";
 
         // HttpClient for application 
